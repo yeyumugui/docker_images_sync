@@ -1,1 +1,1 @@
-xunlei/download
+jialezi/thunder-xware-armv7:latest
