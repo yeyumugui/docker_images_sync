@@ -1,1 +1,1 @@
-openresty/openresty:1.21.4.3-3-3-focal
+openresty/openresty:1.25.3.2-5-bookworm-fat
