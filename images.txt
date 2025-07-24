@@ -1,1 +1,1 @@
-jialezi/thunder-xware-armv7:latest
+openresty:1.21.4.3-3-3-focal
